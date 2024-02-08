@@ -13,7 +13,7 @@
 
 
    - Descreva o ciclo de vida de um `StatefulWidget`.
-
+   - 
 **Resposta:**
 1. **createState()**: Inicializar e instanciar o estado dentro de uma widget.
 2. **initState():** : Chamado uma única vez e pode ser reescrito para inicialização de propriedades.
